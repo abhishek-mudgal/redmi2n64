@@ -27,4 +27,4 @@
 #  IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
 
-add_lunch_combo caf_wt88047_64-userdebug
+add_lunch_combo lineage_wt88047_64-userdebug
